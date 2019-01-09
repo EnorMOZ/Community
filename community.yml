@@ -32,3 +32,5 @@
     - { role: jellyfin, tags: ['jellyfin'] }
     - { role: gazee, tags: ['gazee'] }
     - { role: goplaxt, tags: ['goplaxt'] }
+    - { role: xteve, tags: ['xteve'] }
+    - { role: bookstack, tags: ['bookstack'] }
